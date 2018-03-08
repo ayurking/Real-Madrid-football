@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    },
+    "cordova-plugin-themeablebrowser": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.bjl10.app"
+    }
+  },
+  "dependent_plugins": {}
+}
